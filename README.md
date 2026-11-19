@@ -1,2 +1,2 @@
 # NumberGuessing
-A number guessing game built using Python and Tkinter.
+A basic number guessing game built using Python and Tkinter.
